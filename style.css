@@ -1,0 +1,40 @@
+#brand {
+    color: tomato !important;
+}
+
+.nav-item :hover{
+    color: red;
+}
+.nav-link :hover{
+    color: red;
+}
+
+#wc{
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px 0px;
+  }
+  
+  h1, h3  {
+    text-transform: uppercase;
+   }
+  
+  .counter
+  {
+      text-align: center;
+  }
+  
+  .counter-count
+  {
+      font-size: 50px;
+      font-weight: bold;
+      position: relative;
+      color: #000000;
+      text-align: center;
+      display: inline-block;
+  }
