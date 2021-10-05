@@ -5,10 +5,10 @@
 
 
 .nav-item :hover{
-    color: red !important;
+    color: r#dc3545ed !important;
 }
 .nav-link :hover{
-    color: red !important;
+    color: #dc3545 !important;
 }
 
 #wc{
