@@ -1,14 +1,14 @@
 
   #brand {
-    color: #ff7684 !important;
+   color: #dc3545ed !important;
 }
 
 
-.nav-item :hover{
-    color: r#dc3545ed !important;
+.nav-item :hover {
+    color: #dc3545ed !important;
 }
-.nav-link :hover{
-    color: #dc3545 !important;
+.nav-link :hover {
+    color: #dc3545ed !important;
 }
 
 #wc{
