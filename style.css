@@ -1,4 +1,5 @@
-#brand {
+
+  #brand {
     color: tomato !important;
 }
 
@@ -38,6 +39,3 @@ header {
       text-align: center;
       display: inline-block;
   }
-
-
-  /* Contact us/*
