@@ -1,14 +1,14 @@
 
   #brand {
-    color: tomato !important;
+    color: #ff7684 !important;
 }
 
 
 .nav-item :hover{
-    color: red;
+    color: red !important;
 }
 .nav-link :hover{
-    color: red;
+    color: red !important;
 }
 
 #wc{
